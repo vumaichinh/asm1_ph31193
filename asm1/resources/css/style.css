@@ -1,0 +1,73 @@
+#logo{
+    width: 200px;
+    height: 90px;
+}
+#logoFooter{
+    width: 150px;
+    height: 80px;
+}
+#img_post1{
+    width: 600px;
+    height: 350px;
+}
+#img_post2{
+    width: 200px;
+    height:100px;
+}
+.font-text1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.font-text2{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.font-text3{
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.font-text4{
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+.font-text5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 800;
+    color: gray;
+    /* text-decoration: underline; */
+}
+
+.font-text6{
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 200%;
+}
+.font-text7{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+    /* text-decoration: underline; */
+}
+
+#content1{
+    height:15em;
+    /* white-space: nowrap; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+#content2{
+    border: 1px solid rgb(191, 188, 188);
+}
+
+em{
+    text-decoration: underline;
+}
+ul>li{
+    list-style: none;
+}
+#startup{
+    border-left: 1px solid rgb(191, 188, 188);
+    border-right: 1px solid rgb(191, 188, 188);
+
+}
